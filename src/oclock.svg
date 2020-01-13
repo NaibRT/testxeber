@@ -1,0 +1,15 @@
+<svg id="time-line" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #777;
+      }
+    </style>
+  </defs>
+  <path id="Path_305" data-name="Path 305" class="cls-1" d="M0,0H16V16H0Z"/>
+  <path id="Path_306" data-name="Path 306" class="cls-2" d="M8.667,15.333a6.667,6.667,0,1,1,6.667-6.667A6.667,6.667,0,0,1,8.667,15.333Zm0-1.333A5.333,5.333,0,1,0,3.333,8.667,5.333,5.333,0,0,0,8.667,14Zm.667-5.333H12V10H8V5.333H9.333Z" transform="translate(-0.667 -0.667)"/>
+</svg>

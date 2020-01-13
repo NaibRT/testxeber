@@ -1,0 +1,32 @@
+.header{
+ width: 1366px;
+ height: 60px;
+ background-color: #0d3ece;
+ /* padding-top: 10px;
+ padding-bottom: 11px; */
+padding:10px 0px 11px 0px !important;
+}
+.h-logo{
+ width: 175px;
+ height: 39px;
+object-fit: contain;
+padding: 0px !important;
+margin: 0px !important;
+text-align: start;
+}
+.h-container{
+ margin: 0px 158px !important;
+ box-sizing: border-box;
+}
+.h-container>.row{
+ padding: 0px !important;
+ margin: 0px !important;
+}
+.navbar-content{
+ padding: 0px !important;
+}
+.footer-info{
+ width: 275px;
+ display: flex;
+ justify-content: space-between;
+}

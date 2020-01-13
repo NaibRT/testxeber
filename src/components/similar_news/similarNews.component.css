@@ -1,0 +1,75 @@
+.sni-img{
+ width: 230px;
+ height: 126px;
+ object-fit: contain;
+}
+
+.sni-info{
+  background-color: #ffffff;
+  padding: 10px 10px 10px 10px;
+  margin-bottom: 20px;
+}
+
+.sni-text{
+ height: 120px;
+ /* font-family: Montserrat; */
+ font-size: 18px;
+ font-weight: bold;
+ font-stretch: normal;
+ font-style: normal;
+ line-height: 1.19;
+ letter-spacing: normal;
+ text-align: left;
+ color: #333333;
+}
+.sni-content{
+ width: 31.5%;
+}
+
+.sn-content{
+  display: flex;
+  flex-flow: wrap;
+  justify-content: space-between;
+}
+
+.sn-content-head{
+ text-align: left;
+ height: 44px;
+ line-height: 44px;
+ margin-bottom: 20px;
+ border-bottom: 1px solid #c8c3c7;
+}
+
+.sn-content-head>span{
+ position: relative;
+ width: 174px;
+ height: 22px;
+ font-size: 18px;
+ font-weight: 600;
+ font-stretch: normal;
+ font-style: normal;
+ line-height: 1.22;
+ letter-spacing: normal;
+ text-align: left;
+ color: #000000;
+}
+.red-line{
+ position: absolute;
+ top: 1078px;
+ height: 2px;
+ width: 71%;
+ background-image: linear-gradient(to right,#cd001c 50px,transparent 50px)
+}
+
+.more{
+ background-color: #cd001c !important;
+ width: 230px !important;
+ height: 46px !important;
+}
+.sn-contetnt-btn{
+ margin-top: 30px;
+ text-align: center;
+}
+.sni-a{
+  text-decoration: none !important;
+}

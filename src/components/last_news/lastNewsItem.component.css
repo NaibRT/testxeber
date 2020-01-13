@@ -1,0 +1,41 @@
+.lni-time{
+ width: 33px;
+ height: 18px;
+ font-size: 14px;
+ font-weight: normal;
+ font-stretch: normal;
+ font-style: normal;
+ letter-spacing: normal;
+ text-align: left;
+ color: #a1a1a1;
+}
+.lni-title{
+ font-size: 14px;
+ font-weight: 600;
+ font-stretch: normal;
+ font-style: normal;
+ letter-spacing: normal;
+ text-align: left;
+ color: #333333;
+ margin-left: 6px;
+ margin-bottom: 0px;
+}
+.lni-content{
+ display: flex;
+ padding: 10px 0px 20px 0px;
+}
+
+.ln-content{
+ padding: 10px 14px 20px 10px;
+ background-color: #ffffff;
+ margin-bottom: 20px;
+}
+.ln-btn{
+ width: 271px !important;
+ height: 46px !important;
+ border: 0px solid transparent !important;
+ border-radius: 3px !important;
+ background-color: #0d3ece !important;
+ color: #ffffff !important;
+}
+

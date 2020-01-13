@@ -1,0 +1,15 @@
+<svg id="arrow-right-s-line" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Path_303" data-name="Path 303" class="cls-1" d="M0,0H24V24H0Z"/>
+  <path id="Path_304" data-name="Path 304" class="cls-2" d="M13.172,12,8.222,7.05,9.636,5.636,16,12,9.636,18.364,8.222,16.95Z"/>
+</svg>

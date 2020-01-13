@@ -1,11 +1,19 @@
 .App {
   text-align: center;
+  background-color: #f8f8f8;
+  overflow: hidden !important;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
+
+.main{
+ margin: 0px 158px !important;
+ display: flex;
+ flex-direction: row;
+ }
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

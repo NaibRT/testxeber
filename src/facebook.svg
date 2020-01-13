@@ -1,0 +1,19 @@
+<svg id="iconfinder_Facebook_4745722" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4460a0;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Path_318" data-name="Path 318" class="cls-1" d="M4.444,40H35.556A4.444,4.444,0,0,0,40,35.556V4.444A4.444,4.444,0,0,0,35.556,0H4.444A4.444,4.444,0,0,0,0,4.444V35.556A4.444,4.444,0,0,0,4.444,40Z"/>
+  <path id="Path_317" data-name="Path 317" class="cls-2" d="M46.924,13.232V18.4l-3.07.008c-2.406,0-2.87,1.143-2.87,2.814v3.7h5.732l-.743,5.788H40.985V45.778H35.005V30.716H30V24.928h5.005V20.659c0-4.957,3.021-7.659,7.45-7.659A40.512,40.512,0,0,1,46.924,13.232Z" transform="translate(-13.333 -5.778)"/>
+</svg>
